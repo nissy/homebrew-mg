@@ -2,7 +2,7 @@ require "formula"
 
 HOMEBREW_VERSION="0.0.4"
 
-class MG < Formula
+class Mg < Formula
   homepage "https://github.com/nissy/mg"
 
   if OS.mac?
