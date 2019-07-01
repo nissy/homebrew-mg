@@ -4,6 +4,7 @@ HOMEBREW_VERSION="1.0.1"
 
 class Mg < Formula
   homepage "https://github.com/nissy/mg"
+  version "#{HOMEBREW_VERSION}"
 
   if OS.mac?
     url "https://github.com/nissy/mg/releases/download/v#{HOMEBREW_VERSION}/mg-v#{HOMEBREW_VERSION}_darwin_amd64.tar.gz"
