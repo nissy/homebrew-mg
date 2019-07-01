@@ -1,0 +1,30 @@
+{
+  "homebrew_version": "2.1.0",
+  "used_options": [],
+  "unused_options": [],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "INSTALL_RECEIPT.json"
+  ],
+  "time": 1554695164,
+  "source_modified_time": 1554060039,
+  "HEAD": null,
+  "stdlib": null,
+  "compiler": "clang",
+  "aliases": [],
+  "runtime_dependencies": [],
+  "source": {
+    "path": "/usr/local/Homebrew/Library/Taps/nissy/homebrew-mg/mg.rb",
+    "tap": "nissy/mg/mg",
+    "spec": "stable",
+    "versions": {
+      "stable": "1.0.1",
+      "devel": "",
+      "head": "HEAD",
+      "version_scheme": 0
+    }
+  }
+}
