@@ -9,11 +9,11 @@
   "changed_files": [
     "INSTALL_RECEIPT.json"
   ],
-  "time": 1554695164,
-  "source_modified_time": 1554060039,
+  "time": 1554695165,
+  "source_modified_time": 1554060040,
   "HEAD": null,
   "stdlib": null,
-  "compiler": "clang",
+  "compiler": "",
   "aliases": [],
   "runtime_dependencies": [],
   "source": {
@@ -21,7 +21,7 @@
     "tap": "nissy/mg/mg",
     "spec": "stable",
     "versions": {
-      "stable": "1.0.1",
+      "stable": "1.0.2",
       "devel": "",
       "head": "HEAD",
       "version_scheme": 0
