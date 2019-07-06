@@ -1,6 +1,6 @@
 require "formula"
 
-HOMEBREW_VERSION="1.0.3"
+HOMEBREW_VERSION="1.0.4"
 
 class Mg < Formula
   homepage "https://github.com/nissy/mg"
@@ -8,7 +8,7 @@ class Mg < Formula
 
   if OS.mac?
     url "https://github.com/nissy/mg/releases/download/v#{HOMEBREW_VERSION}/mg-v#{HOMEBREW_VERSION}_darwin_amd64.tar.gz"
-    sha256 "197168fadb74b31e0a0113831fc4104c2e0082ac61e79b56d1190e3ded374aeb"
+    sha256 "2ecc484c04a42a774d3b08937ac7f6d8352bf21cca98668b048f09d20fac98be"
     head "https://github.com/nissy/mg/mg.git"
   end
 
