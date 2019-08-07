@@ -9,8 +9,8 @@
   "changed_files": [
     "INSTALL_RECEIPT.json"
   ],
-  "time": 1554695169,
-  "source_modified_time": 1554060044,
+  "time": 1554695170,
+  "source_modified_time": 1554060045,
   "HEAD": null,
   "stdlib": null,
   "compiler": "",
@@ -21,7 +21,7 @@
     "tap": "nissy/mg/mg",
     "spec": "stable",
     "versions": {
-      "stable": "1.0.6",
+      "stable": "1.0.7",
       "devel": "",
       "head": "HEAD",
       "version_scheme": 0
